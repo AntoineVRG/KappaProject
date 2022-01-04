@@ -1,0 +1,291 @@
+[2021-12-08 22:18:45 UTC] keewiw: re
+[2021-12-08 22:18:46 UTC] Chill_HipHop7: @ioggy Apres ça veut rien dire, le scheduling CPU est une science bien compliquée
+[2021-12-08 22:18:49 UTC] ULTIMBANGA: hop rapido
+[2021-12-08 22:18:49 UTC] Kyonshin: Merci L'inca
+[2021-12-08 22:18:49 UTC] alkante_m21: re
+[2021-12-08 22:18:50 UTC] Sirgate: re
+[2021-12-08 22:18:57 UTC] Kyonshin: Ah
+[2021-12-08 22:19:02 UTC] Kyonshin: on est en 720p 60 la
+[2021-12-08 22:19:07 UTC] lebenau: euh ca bave de fou
+[2021-12-08 22:19:11 UTC] roryraymond: re
+[2021-12-08 22:19:14 UTC] echap10: débit à 3000k...?
+[2021-12-08 22:19:15 UTC] Mydriase_Edge: 720p 60
+[2021-12-08 22:19:17 UTC] Lynka: beaucoup + d'artefact maintenant que avant
+[2021-12-08 22:19:23 UTC] ULTIMBANGA: par contre là ça pixélise partout
+[2021-12-08 22:19:27 UTC] Kyonshin: j'ai pas la 1080 on est en 720p haha
+[2021-12-08 22:19:44 UTC] Lynka: peut etre
+[2021-12-08 22:19:48 UTC] fleanocyd: change pas d'main
+[2021-12-08 22:19:56 UTC] Mydriase_Edge: ça merdait tout le temps à un moment oui
+[2021-12-08 22:20:12 UTC] ULTIMBANGA: on a que du 3000
+[2021-12-08 22:20:15 UTC] Nightbot: https://paria-edition.fr/index.php/produit/boite-standard-ordre-de-veiel/   pour commander La boite du jeu avec le code MAROUFLAR pour débloquer le perso de Benzaie !
+[2021-12-08 22:20:22 UTC] echap10: Toujours 3000k
+[2021-12-08 22:20:29 UTC] shadowd1316: sa va le 1080p
+[2021-12-08 22:20:41 UTC] Kyonshin: J'AI !
+[2021-12-08 22:20:45 UTC] majin_ssj3: 1080p pour moi
+[2021-12-08 22:20:46 UTC] CheaPR: f5 1080p 60
+[2021-12-08 22:20:47 UTC] Kyonshin: F5 marche j'ai 1080p
+[2021-12-08 22:20:48 UTC] lebenau: on est en 1080 p en faisant f 5
+[2021-12-08 22:20:49 UTC] hatheorune1: avec f5 la 1080 est revenue
+[2021-12-08 22:20:51 UTC] Mydriase_Edge: par contre ça semble bien stable
+[2021-12-08 22:20:52 UTC] echap10: 6000k après F5
+[2021-12-08 22:20:52 UTC] majin_ssj3: 60hz
+[2021-12-08 22:20:58 UTC] ULTIMBANGA: F5 et j'ai du 6000 en 1080 60
+[2021-12-08 22:21:00 UTC] Zehnor: 6000kbps
+[2021-12-08 22:21:04 UTC] roryraymond: j'ai le 1080
+[2021-12-08 22:21:05 UTC] LauW__: ah j'ai de refresh pour avoir le stream ><
+[2021-12-08 22:21:09 UTC] Nightbot: Petit rappel des règles: pas de spam, d'insultes, de pavé, de fullmajs, d'abus de symboles, de lien non autorisés, pas de /me, de pub pour d'autres streams et du respect pour la personne que Benzaie host, sinon TO des modos de l'amour PJSalt
+[2021-12-08 22:21:11 UTC] Chill_HipHop7: et pas de transcoding xD
+[2021-12-08 22:21:15 UTC] Kyonshin: 10 000 kilos au régime
+[2021-12-08 22:21:16 UTC] alkante_m21: ça semble bon
+[2021-12-08 22:21:18 UTC] Lynka: c'est mieux la, mais moins net
+[2021-12-08 22:21:25 UTC] majin_ssj3: ca a l air bueno
+[2021-12-08 22:21:27 UTC] Kyonshin: Mais la je trouve ça fluide
+[2021-12-08 22:21:30 UTC] shadowd1316: tu fera comment pour yt ? la rediff
+[2021-12-08 22:21:33 UTC] Lynka: ahah sa veux rien dire
+[2021-12-08 22:21:35 UTC] Zehnor: Mais ton réglage est bon en fait c'est le jeu qui fait ça vraisemblablement
+[2021-12-08 22:21:38 UTC] Shintamaru: xD
+[2021-12-08 22:21:45 UTC] Kyonshin: faudrais clean obs+pc je pense
+[2021-12-08 22:21:54 UTC] Kyonshin: comme le disait un philosophe Kappa
+[2021-12-08 22:21:55 UTC] nv_prospekt: @shadowd1316 c'est bien le problème
+[2021-12-08 22:21:55 UTC] DSwitchy: je trouve ça regardable
+[2021-12-08 22:21:57 UTC] roryraymond: @shadowd1316 il va probablement faire un peu de montage
+[2021-12-08 22:22:01 UTC] FlavioMousquetine: C’est toi le bicubique
+[2021-12-08 22:22:01 UTC] LauW__: Je comprends pas ce que Benzaie raconte, le stream est putain de clean
+[2021-12-08 22:22:03 UTC] GrosCarow: c'est plus jolie comme ça
+[2021-12-08 22:22:05 UTC] Mydriase_Edge: on a plus de baisse de framerate là j'ai l'ipression
+[2021-12-08 22:22:09 UTC] echap10: Vérifier tous les pilotes...
+[2021-12-08 22:22:14 UTC] Lynka: en vrai la c'est le mieux que tu as eu
+[2021-12-08 22:22:15 UTC] ULTIMBANGA: y a-t-il du grain d'image dans le jeu @BenZaie ?
+[2021-12-08 22:22:18 UTC] Kyonshin: la c'est fluide
+[2021-12-08 22:22:21 UTC] majin_ssj3: a part optimiser ton ssd y'a pas grand chose à faire
+[2021-12-08 22:22:26 UTC] theonlygensou: spit spit
+[2021-12-08 22:22:28 UTC] alkante_m21: go te fight qu'on voit si ça tien
+[2021-12-08 22:22:28 UTC] majin_ssj3: mais la c'est nickel
+[2021-12-08 22:22:33 UTC] Mydriase_Edge: ah un poil des fois mais vraiment là ça va
+[2021-12-08 22:22:38 UTC] Zehnor: Attendez ça fait des lustres qu'on voit des stream en 1080p 60fps ça pixelise pas comme ça, donc visiblement c'est Halo qui fait ça
+[2021-12-08 22:22:42 UTC] Kyonshin: C'est très bien comme ça Ben
+[2021-12-08 22:22:43 UTC] fleanocyd: c'est les sites exotiques ça
+[2021-12-08 22:22:51 UTC] stormlightning13: Le stream est mega clean vous vous plaignez pour rien serieusement une fois essayé tous le remote play et vous verrez la difference pour pleins de trucs
+[2021-12-08 22:22:56 UTC] lebenau: prochaine fois que je passe je regarderais ca
+[2021-12-08 22:23:08 UTC] Lynka: @Zehnor non c'est des qu'il y a beaucoup de mouvement + beaucoup de detail, exemple, fps dans une foret
+[2021-12-08 22:23:12 UTC] Spartanus96: après la ça tourne bien
+[2021-12-08 22:23:32 UTC] nv_prospekt: LUL
+[2021-12-08 22:23:34 UTC] Kyonshin: @BenZaie c'est TRES bien comme ça, te prend pas la tête plus longtemps et fait ce qui te plais
+[2021-12-08 22:23:34 UTC] Zehnor: Le jeu est en 1340x754 là
+[2021-12-08 22:23:34 UTC] strojpp: moi aussi quand je dis cependant maintenant je prend la voix se seb dumbledor... Terrible
+[2021-12-08 22:23:35 UTC] majin_ssj3: 0 pertes
+[2021-12-08 22:23:38 UTC] Qlyud: sympa ce stream digital benzy :p
+[2021-12-08 22:23:44 UTC] majin_ssj3: perte*
+[2021-12-08 22:23:44 UTC] Kyonshin: Le meilleur résultat jusqu'à maintenant
+[2021-12-08 22:23:46 UTC] BERLUSKOZY: Mets le stream en "Just Settings" Kappa LUL
+[2021-12-08 22:23:48 UTC] Ice_Cream_Toast: Au pire envoi en 1008 ou en 936
+[2021-12-08 22:23:51 UTC] shadowd1316: après faudra surveiller pdt les gun fight
+[2021-12-08 22:23:54 UTC] majin_ssj3: 0 perte... enfin sauf pour ma copine
+[2021-12-08 22:24:03 UTC] domido89b: tu es a combien en intervalle d'image clé ?
+[2021-12-08 22:24:05 UTC] Zehnor: @Lynka Vu son pc ça devrait PAS justement
+[2021-12-08 22:24:21 UTC] majin_ssj3: et ton server OBS ?
+[2021-12-08 22:24:22 UTC] GrosCarow: et les freeez
+[2021-12-08 22:24:36 UTC] alkante_m21: @stormlightning13 nan tout a l'heure quand il depopait des mobs y'avait des gros stutter c'etait dégeux , la c'est fluide
+[2021-12-08 22:24:37 UTC] majin_ssj3: t'as bien choisi server Europe?
+[2021-12-08 22:24:38 UTC] Lynka: @Zehnor c'est l'encodage, tu pourras rien y changer meme avec un pc a 10000 ^^
+[2021-12-08 22:24:41 UTC] Mydriase_Edge: tu peux pas faire un beau record propre en local pour youtube et nous on se contente de ça? (et c'est très bien)
+[2021-12-08 22:24:49 UTC] GrosCarow: il les a que sur le live et ’pas  dans le jeux ?
+[2021-12-08 22:24:50 UTC] domido89b: 2
+[2021-12-08 22:24:50 UTC] Zehnor: J'ai eu pareil ça pixelise quand il fait trop sombre aussi, dans Alien: Isolation typiquement
+[2021-12-08 22:24:54 UTC] shadowd1316: j ai pas de freeze
+[2021-12-08 22:24:55 UTC] majin_ssj3: mais en vrai vrai c'est clean
+[2021-12-08 22:24:58 UTC] Kyonshin: Ah ?
+[2021-12-08 22:24:58 UTC] domido89b: test 2
+[2021-12-08 22:25:10 UTC] Nightbot: https://paria-edition.fr/index.php/produit/boite-standard-ordre-de-veiel/   pour commander La boite du jeu avec le code MAROUFLAR pour débloquer le perso de Benzaie !
+[2021-12-08 22:25:12 UTC] Kyonshin: 2 ?
+[2021-12-08 22:25:21 UTC] Zehnor: @Lynka Ouais ok
+[2021-12-08 22:25:28 UTC] stormlightning13: @alkante_m21 je te jure c'est rien comparé a du remote play qui bug avec des pixels quand tu joue a un mmo
+[2021-12-08 22:25:41 UTC] alkante_m21: @groscarow  c'est ça
+[2021-12-08 22:25:54 UTC] majin_ssj3: check ton serveur sinon
+[2021-12-08 22:26:01 UTC] Kyonshin: @domido89b mais pourquoi 2 ?
+[2021-12-08 22:26:04 UTC] lebenau: oui c'est moins bien
+[2021-12-08 22:26:06 UTC] Sirgate: horrible
+[2021-12-08 22:26:21 UTC] domido89b: je voulais voir si ça venait de ça
+[2021-12-08 22:26:22 UTC] majin_ssj3: Stream (flux)
+[2021-12-08 22:26:22 UTC] Kyonshin: Benzaie c'est pas Batman il a pas un serveur comme Alfred KEKHeim
+[2021-12-08 22:26:36 UTC] keewiw: bonsoir, quel est le pb le chat ?
+[2021-12-08 22:26:42 UTC] Kyonshin: clairement OBS est un problème, quand tu a diminué OBS tout de suite il y a eu un changement clair et net
+[2021-12-08 22:26:58 UTC] alkante_m21: @stormlightning13 c'est pas parceque ya pire que c'est acceptable ^^ je me suit taper catherine avec le ps now avec une co de 1.2 mo/s et c'etait vraiment degeux meme si ça marchait
+[2021-12-08 22:27:10 UTC] Scriv9: Hello shibuy4Yotsuba
+[2021-12-08 22:27:20 UTC] majin_ssj3: go sur elgato hein
+[2021-12-08 22:27:30 UTC] strojpp: @keewiw on pourchasse le 1080p 60 fps en streaming.
+[2021-12-08 22:27:39 UTC] MrPixounet: c ok
+[2021-12-08 22:27:48 UTC] alkante_m21: la c'est bon ouais !
+[2021-12-08 22:27:50 UTC] domido89b: en vrai c'est le meilleur compromis que tu peux avoir
+[2021-12-08 22:28:02 UTC] keewiw: @strojpp pq on est à  cb de fps la ?
+[2021-12-08 22:28:14 UTC] roryraymond: Ostie d'obs
+[2021-12-08 22:28:15 UTC] nv_prospekt: tu as tout essayé sauf baisser les graphismes
+[2021-12-08 22:28:17 UTC] majin_ssj3: dans Stream (flux) tu peux choisir ton serveur
+[2021-12-08 22:28:25 UTC] BERLUSKOZY: ya des mini coupures de sons depuis dtaleur chez moi
+[2021-12-08 22:28:32 UTC] majin_ssj3: France : Paris
+[2021-12-08 22:28:33 UTC] Guillemooot: mets un petit message "si ça rame, c'est la faute à OBS"
+[2021-12-08 22:28:35 UTC] Chill_HipHop7: C'est l'apercu des camera et fond vert qui pose probleme souvent, la gestion d'explorer avec du contenu animé gourmand et un gros ça fait pas bon menage, et ce, quelle que soit la carte graphique
+[2021-12-08 22:28:41 UTC] echap10: Faut tester avec un véhicule
+[2021-12-08 22:28:44 UTC] Kyonshin: Non Non
+[2021-12-08 22:28:44 UTC] strojpp: @keewiw demande aux lynx et aux faucons du chat ^^
+[2021-12-08 22:28:46 UTC] PSTHCtv: 15 raiders from PSTHCtv have joined! 
+[2021-12-08 22:28:47 UTC] patapute: c'est comment halo en open world du coup ?
+[2021-12-08 22:28:49 UTC] Kyonshin: Rien du tout
+[2021-12-08 22:28:54 UTC] JohnSanjo: y'as pas de soucis de son
+[2021-12-08 22:28:54 UTC] Shintamaru: il me semble remarquer une différence en mieux maintenant par rapport à tout à l'heure
+[2021-12-08 22:28:56 UTC] zixelle: pas de coupure son pour moi perso
+[2021-12-08 22:28:57 UTC] Chill_HipHop7: c'est pourquoi de retrecir OBS fait gagner des FPS
+[2021-12-08 22:29:01 UTC] BERLUSKOZY: J'ai fait f5 pr voir
+[2021-12-08 22:29:06 UTC] The_MooL: @BenZaie  mon pc a son écran qui tourne et vomit du liquide vert, ça vient de ton stream je crois
+[2021-12-08 22:29:08 UTC] alkante_m21: met obs c'est dde la merde en message sur le template et pis voila bnzJuno
+[2021-12-08 22:29:18 UTC] claud3speed: pour moi tout est net
+[2021-12-08 22:29:24 UTC] strojpp: J'espère que les raideurs sont des informaticiens
+[2021-12-08 22:29:25 UTC] PhiloooZ: et sinon ya pas mieux que OBS  ?
+[2021-12-08 22:29:35 UTC] Kyonshin: C'est l'apercu des camera et fond vert qui pose probleme souvent, OBS en diminuer haha
+[2021-12-08 22:29:35 UTC] ULTIMBANGA: non pas de coupure ici non plus, ça c'est nos connexions, le flux est stable
+[2021-12-08 22:29:38 UTC] keewiw: y'en a bcp qui voient la diff avec les fps la ?
+[2021-12-08 22:29:40 UTC] BERLUSKOZY: Non même avec f5 tjrs des petites coupures viteuf
+[2021-12-08 22:29:49 UTC] majin_ssj3: t'es si beau sur ma tablette graphique en 60hz
+[2021-12-08 22:29:49 UTC] Chill_HipHop7: encore une fois, le gestionnaire des taches C'EST DE LA MERDE. Faut utiliser Afterburner
+[2021-12-08 22:29:50 UTC] Kyonshin: Au pire Streamlabs OBS... KappaHD
+[2021-12-08 22:30:03 UTC] claud3speed: aucun problème pour moi
+[2021-12-08 22:30:05 UTC] BERLUSKOZY: Probablement
+[2021-12-08 22:30:08 UTC] domido89b: le soucis réel c'est le bitrate limité de twitch, tu ne peux pas faire grand chose d'autre
+[2021-12-08 22:30:08 UTC] lebenau: Kyonshin au bucher
+[2021-12-08 22:30:10 UTC] Gunther_Strike: Yep zéro soucis de son
+[2021-12-08 22:30:13 UTC] Shintamaru: x)
+[2021-12-08 22:30:15 UTC] RG_PapyBlue: même sur phone j'ai pas de soucis Kappa
+[2021-12-08 22:30:20 UTC] silveridlr: ya rien là
+[2021-12-08 22:30:20 UTC] Nightbot: https://www.instant-gaming.com/fr/giveaway/BENZAIE  Pour Jouer Moins Cher avec notre partenaire INSTANT GAMING ! Des Jeux à Gagner Tous les Mois !
+[2021-12-08 22:30:30 UTC] zixelle: on peut largement supporté cette qualité de stream en vrai
+[2021-12-08 22:30:37 UTC] Kyonshin: @BenZaie Nan mais la le stream est bon et fluide te prend pas la tête
+[2021-12-08 22:30:43 UTC] majin_ssj3: sinon derniere option... Ton antivirus qui bloque le logiciel
+[2021-12-08 22:30:45 UTC] BibbidiBabbidi: c'était sympa
+[2021-12-08 22:30:56 UTC] GrosCarow: ça sera aussi fluide et beau que les vod des autres halo du coup c'est cohérent non ?:p
+[2021-12-08 22:31:03 UTC] Kyonshin: Antivirus... si c'est ça LUL
+[2021-12-08 22:31:11 UTC] Nightbot: https://paria-edition.fr/index.php/produit/boite-standard-ordre-de-veiel/   pour commander La boite du jeu avec le code MAROUFLAR pour débloquer le perso de Benzaie !
+[2021-12-08 22:31:16 UTC] Zehnor: Ouais mais il veut une qualité optimale sinon ça donne une mauvaise image du jeu, et du stream quoi
+[2021-12-08 22:31:16 UTC] Iglou_eu: Pour compenser tu peux nous stream de la PS2 cette nuit si tu veux LUL
+[2021-12-08 22:31:16 UTC] dptmoustachon: mais le stream est ok, arrêtez de chercher la bête
+[2021-12-08 22:31:19 UTC] alkante_m21: go rentré en trotinette electrique et jouer jusque 3h
+[2021-12-08 22:31:20 UTC] opal_paovisions: tt va bien
+[2021-12-08 22:31:27 UTC] majin_ssj3: @Kyonshin pi-être hein
+[2021-12-08 22:31:28 UTC] Chill_HipHop7: on se croirait sur MSN en 2006 avec vos antivirus
+[2021-12-08 22:31:29 UTC] lebenau: Kyonshin tes intenable toi ^^ kappa
+[2021-12-08 22:31:40 UTC] stormlightning13: Mais tout est okay relax
+[2021-12-08 22:31:40 UTC] silveridlr: a chaque exclu xbox...
+[2021-12-08 22:31:48 UTC] GrosCarow: pas de coop pour celui là ?
+[2021-12-08 22:32:03 UTC] The_MooL: sacrifie un veau gras
+[2021-12-08 22:32:03 UTC] Kyonshin: Ouai Forza
+[2021-12-08 22:32:04 UTC] opal_paovisions: je kiffais le multi et avec la maj campagne le jeu est broken
+[2021-12-08 22:32:10 UTC] majin_ssj3: ouais boh. En tt cas en bicubic c'est un peu mieux je trouve
+[2021-12-08 22:32:11 UTC] alkante_m21: @groscarow  dans 3 mois
+[2021-12-08 22:32:12 UTC] opal_paovisions: (sur game pass)
+[2021-12-08 22:32:12 UTC] Nightbot: Petit rappel des règles: pas de spam, d'insultes, de pavé, de fullmajs, d'abus de symboles, de lien non autorisés, pas de /me, de pub pour d'autres streams et du respect pour la personne que Benzaie host, sinon TO des modos de l'amour PJSalt
+[2021-12-08 22:32:16 UTC] ULTIMBANGA: windows defender fait le taf, pas besoin d'autre chose de toute façon si on est pas un boulet sur le net
+[2021-12-08 22:32:22 UTC] roryraymond: @GrosCarow ils vont l'ajouter après
+[2021-12-08 22:32:30 UTC] majin_ssj3: test avec un Filtre Geforce sinon ?
+[2021-12-08 22:32:34 UTC] Chill_HipHop7: Tu devrais essayer differents mode de plein ecran, par exemple le fenetré fullscreen est souvent problematique
+[2021-12-08 22:32:45 UTC] alkante_m21: @groscarow  ils ont pas fini leur devoir en gros
+[2021-12-08 22:32:50 UTC] Kyonshin: la c'est cool
+[2021-12-08 22:33:04 UTC] GrosCarow: merci pour l'info ;)
+[2021-12-08 22:33:07 UTC] opal_paovisions: jpense ils ont capté le potentiel du multi
+[2021-12-08 22:33:11 UTC] Kyonshin: après est-ce qu'on a régler le problème a 100% pas sur mais c'est BEAUCOUP mieux
+[2021-12-08 22:33:24 UTC] Orichimarugin: ouahhh il est beau le jeu, je m'attendais à moins net (la next gen est là
+[2021-12-08 22:33:24 UTC] michel_klaxon: T’as encore des canettes xp halo ?
+[2021-12-08 22:33:54 UTC] Kyonshin: Gerbotron
+[2021-12-08 22:34:05 UTC] Shintamaru: j'ai pas vu de différence
+[2021-12-08 22:34:06 UTC] BERLUSKOZY: LUL
+[2021-12-08 22:34:09 UTC] Scriv9: Somme toute ça parait fluide dans les deux cas
+[2021-12-08 22:34:12 UTC] Orichimarugin: c'est du 120fps ou c'est moi qui plane? ultra fluide
+[2021-12-08 22:34:14 UTC] Kyonshin: Fluide oui
+[2021-12-08 22:34:23 UTC] opal_paovisions: j'ai ap vu de diff non plus
+[2021-12-08 22:34:27 UTC] Gunther_Strike: moi je vois pas la diff (la dessuite)
+[2021-12-08 22:34:28 UTC] alkante_m21: mdr elle sont pas périmer depuis le temps ?
+[2021-12-08 22:34:35 UTC] Shintamaru: xD
+[2021-12-08 22:34:40 UTC] Sneurice: alors ça dit quoi la campagne?
+[2021-12-08 22:34:41 UTC] Kyonshin: IGNORE LES !
+[2021-12-08 22:34:43 UTC] BibbidiBabbidi: ça lag benzaie
+[2021-12-08 22:34:43 UTC] keewiw: boah
+[2021-12-08 22:34:43 UTC] Ice_Cream_Toast: Faut se dire que tout le monde regardera ce stream en picture in picture, personne verra rien c'est gagné
+[2021-12-08 22:34:49 UTC] Kyonshin: Tu te prend la tête pour rien Kappa
+[2021-12-08 22:34:56 UTC] silveridlr: après on  t'as vu jouer à splinter cell sur gamecube mdrr
+[2021-12-08 22:34:57 UTC] Scriv9: Bah maintenant on est au courant que c'est OBS donc bon DEW IT ANYWAY
+[2021-12-08 22:34:57 UTC] alkante_m21: dans le doute minimise le retour comme ça
+[2021-12-08 22:34:59 UTC] Iglou_eu: Tu peux pas stream direct depuis la xbox @BenZaie ?
+[2021-12-08 22:35:04 UTC] opal_paovisions: te prends pas la tete pr rien c nickel
+[2021-12-08 22:35:11 UTC] Nightbot: https://paria-edition.fr/index.php/produit/boite-standard-ordre-de-veiel/   pour commander La boite du jeu avec le code MAROUFLAR pour débloquer le perso de Benzaie !
+[2021-12-08 22:35:14 UTC] domido89b: pour 6000 Kbps c'est très bien le résultat que tu as
+[2021-12-08 22:35:22 UTC] Kyonshin: Bah au pire fait le, du moment que TOI tu t'enjaille le gosier
+[2021-12-08 22:35:25 UTC] xIX_MacBeth_XIx: Bonsoir @BenZaie :) Bonsoir les chat :)
+[2021-12-08 22:35:33 UTC] Orichimarugin: c'est quoi le problème? c'est super à ce que je vois. lag du stream?
+[2021-12-08 22:35:50 UTC] Shintamaru: x)
+[2021-12-08 22:35:57 UTC] PNJeef: bnzOO
+[2021-12-08 22:36:04 UTC] Iglou_eu: Moi je suis bon publique, je m'enjaille temps que tu es bien
+[2021-12-08 22:36:04 UTC] Kyonshin: me dit pas que c'est la co haha
+[2021-12-08 22:36:10 UTC] bordeldepseudodispo: perso je vois rien donc pour moi le stream est très bien
+[2021-12-08 22:36:14 UTC] majin_ssj3: ouais c est clairement mieux
+[2021-12-08 22:36:19 UTC] Rougemors: Hello
+[2021-12-08 22:36:28 UTC] Mydriase_Edge: là on est très bien je trouve
+[2021-12-08 22:36:42 UTC] Ice_Cream_Toast: Si twitch autorisait juste 500kbps de plus ça changerait la face du monde
+[2021-12-08 22:36:44 UTC] majin_ssj3: ca drop à 50 ou 45 max mais c'est pas enorme
+[2021-12-08 22:36:47 UTC] BibbidiBabbidi: Il y a UBER sinon
+[2021-12-08 22:36:50 UTC] Shintamaru: Orichimarugin, oui il me semble il y avait des microlag tout à l'heure et des images qui manquent
+[2021-12-08 22:36:51 UTC] Mydriase_Edge: allez lesgo les dons pour le uber
+[2021-12-08 22:36:56 UTC] alkante_m21: je pense que ta le bon setting , go test dans un fight quand meme
+[2021-12-08 22:37:03 UTC] Reapper__Tv: c'est moi ou la culasse bouge toute seul
+[2021-12-08 22:37:03 UTC] PNJeef: je viens de te payer le uber au pire LUL LUL
+[2021-12-08 22:37:04 UTC] jean_bomber87: à l'huile
+[2021-12-08 22:37:11 UTC] Kyonshin: Ecoute tu fera des choses salaces a HALO chez toi sur la XBOX au pire
+[2021-12-08 22:37:12 UTC] Rougemors: Alors que donne ce jeu après tant d'attente ?
+[2021-12-08 22:37:19 UTC] Chill_HipHop7: @Ice_Cream_Toast A rappeler que les valeurs sont en kilobit, et non en kiloBYTES
+[2021-12-08 22:37:23 UTC] majin_ssj3: t'es à Paris?
+[2021-12-08 22:37:30 UTC] alkante_m21: @reapper__tv elle respire en effet mdr
+[2021-12-08 22:37:32 UTC] Orichimarugin: Shintamaru:  ah ok, merci pour l'info
+[2021-12-08 22:37:34 UTC] PNJeef: Bordeaux
+[2021-12-08 22:37:38 UTC] Shintamaru: bnzPrds bnzPrds bnzPrds
+[2021-12-08 22:37:39 UTC] cptnbullsh1t: vidéo des goty ?
+[2021-12-08 22:37:41 UTC] Kyonshin: ahlala il prend les sentiments
+[2021-12-08 22:37:51 UTC] Iglou_eu: Mais de chez toi sa stream mieux LUL
+[2021-12-08 22:37:55 UTC] VashTheStampTV: La détresse d'un homme
+[2021-12-08 22:37:57 UTC] Kyonshin: "On rejouera a Halo quand ce sera possible... Demain" LUL
+[2021-12-08 22:37:59 UTC] Reapper__Tv: @alkante_m21 c'est ouf HAHA
+[2021-12-08 22:38:12 UTC] Mydriase_Edge: c'est à quelle heure?
+[2021-12-08 22:38:16 UTC] Kyonshin: Bah oui Lets go faire ça
+[2021-12-08 22:38:24 UTC] majin_ssj3: @Kyonshin LUL WutFace WutFace
+[2021-12-08 22:38:27 UTC] Lord_Magicarpe: lets go le stream vidéo game award demain avec Ben <3 la hype
+[2021-12-08 22:38:28 UTC] roryraymond: @Mydriase_Edge 2h/3H du matin
+[2021-12-08 22:38:33 UTC] elBigoFudgio: elBigoFudgio converted from a Prime sub to a Tier 1 sub! 
+[2021-12-08 22:38:35 UTC] Kyonshin: tu lance Halo et tu enchaine derrière avec les Game Awards
+[2021-12-08 22:38:38 UTC] Shintamaru: bnzPrds
+[2021-12-08 22:38:49 UTC] Fantomaslebatard: Benzaie en petite forme ce soir
+[2021-12-08 22:38:52 UTC] lebenau: des bisous moi je tiens plus
+[2021-12-08 22:38:58 UTC] alkante_m21: @reapper__tv c'est le futur c'est surement fait expres
+[2021-12-08 22:39:04 UTC] mathvbc69: !uptime
+[2021-12-08 22:39:05 UTC] Nightbot: BenZaie est live depuis 20 minutes 33 seconds
+[2021-12-08 22:39:39 UTC] Shintamaru: juste pour dire c'est cool depuis taleur perso, ensuites c'est mieyx il me semble maintenant
+[2021-12-08 22:39:55 UTC] Lord_Magicarpe: force a toi Benzaie
+[2021-12-08 22:39:55 UTC] VashTheStampTV: Faut acheter un nouveau pc, je vois pas d'autre solution bnzFox
+[2021-12-08 22:39:55 UTC] Mydriase_Edge: @roryraymond merci! (mon message a été autoboted)
+[2021-12-08 22:40:13 UTC] Nightbot: https://paria-edition.fr/index.php/produit/boite-standard-ordre-de-veiel/   pour commander La boite du jeu avec le code MAROUFLAR pour débloquer le perso de Benzaie !
+[2021-12-08 22:40:15 UTC] BERLUSKOZY: C'est un complot Jeux-Vidéo-Maçonique
+[2021-12-08 22:40:16 UTC] Zehnor: OBS va se remettre en config par défaut donc ça va peut-être résoudre le pb qui sait
+[2021-12-08 22:40:19 UTC] roryraymond: @Mydriase_Edge c'est le mot t ard qui est ban
+[2021-12-08 22:40:27 UTC] Shintamaru: merçi <3
+[2021-12-08 22:40:29 UTC] alkante_m21: bon aller Gros bisous a tous et bonne nuit
+[2021-12-08 22:40:34 UTC] PNJeef: courage et bonne soirée ! à demain !
+[2021-12-08 22:40:39 UTC] strojpp: Courage benzaie à la prochaine
+[2021-12-08 22:40:39 UTC] Kyonshin: ? Kappa
+[2021-12-08 22:40:43 UTC] Mydriase_Edge: @roryraymond ah oui je vois
+[2021-12-08 22:40:47 UTC] Ulti_24KANA: à demain Benzi
+[2021-12-08 22:40:47 UTC] yunyun12151: bonne nuit !
+[2021-12-08 22:40:47 UTC] strojpp: bonne soirée/nuit le chat
+[2021-12-08 22:41:00 UTC] MichelLepain: Des bisous courage !
+[2021-12-08 22:41:00 UTC] GrosCarow: tu n'as pas une vhs sous le comptoir pour conf obs ?
+[2021-12-08 22:41:01 UTC] PSTHCtv: Belle soirée !!!
+[2021-12-08 22:41:04 UTC] Kyonshin: Bye
+[2021-12-08 22:41:04 UTC] thebenjlebowski: à toute benzou
+[2021-12-08 22:41:05 UTC] elBigoFudgio: Courage Benzaie, bonne nuit tout le monde et à demain pour les GA !
+[2021-12-08 22:41:07 UTC] ULTIMBANGA: ++
+[2021-12-08 22:41:09 UTC] Nightbot: Petit rappel des règles: pas de spam, d'insultes, de pavé, de fullmajs, d'abus de symboles, de lien non autorisés, pas de /me, de pub pour d'autres streams et du respect pour la personne que Benzaie host, sinon TO des modos de l'amour PJSalt
+[2021-12-08 22:41:12 UTC] domido89b: mrqArt
