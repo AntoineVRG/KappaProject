@@ -17,21 +17,24 @@ class IA:
     def fill_tab_with_data(self):
         line = []
 
-        if open(sys.argv[1], 'r'):
-            file = open(sys.argv[1], 'r')
-        csvreader = csv.reader(file)
+        for x in range(1, len(sys.argv)):
+            if open(sys.argv[x], 'r'):
+                file = open(sys.argv[x], 'r')
+                csvreader = csv.reader(file)
 
-        for line in csvreader:
-            if line[1] == "1":
-                self.ironique += [str(line[0])]
-            if line[1] == "2":
-                self.none_ironique += [line[0]]
-            if line[1] == "3":
-                self.emoji += [line[0]]
-            if line[1] == "4":
-                self.pub += [line[0]]
-            if line[1] == "5":
-                self.uninterpretable += [line[0]]
+                for line in csvreader:
+                    if line[1] == "1":
+                        self.ironique += [str(line[0])]
+                    if line[1] == "2":
+                        self.none_ironique += [line[0]]
+                    if line[1] == "3":
+                        self.emoji += [line[0]]
+                    if line[1] == "4":
+                        self.pub += [line[0]]
+                    if line[1] == "5":
+                        self.uninterpretable += [line[0]]
+            else:
+                sys.exit("Error with argv")
 
     def check_word_and_count(self):
         tmp = []
@@ -89,9 +92,12 @@ class IA:
                 top = int(self.dict_word[i][1])
         f = open("liste_des_mots_ironiques", "w")
         for i in range(len(self.dict_word)):
-            if len(self.dict_word[i]) != 0 and int(self.dict_word[i][1]) > top / 2:
+            # and int(self.dict_word[i][1]) > top / 2
+            if len(self.dict_word[i]) != 0 and int(self.dict_word[i][1]) > top / 80:
                 print(self.dict_word[i][0])
                 f.write(self.dict_word[i][0])
+                f.write(" and ")
+                f.write(str(self.dict_word[i][1]))
                 f.write("\n")
 
     def parse_word(self):
